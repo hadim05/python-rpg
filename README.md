@@ -31,3 +31,28 @@ python rpg_game.py
 ```
 
 4. Follow the on-screen menu to play the game.
+nd dictionaries
+- Conditional statements and loops
+- Reading and writing JSON files
+- Error handling
+- Organising a larger Python program
+
+## Skills Practised
+
+This project helped me develop my understanding of:
+
+- Object-oriented programming (OOP)
+- Classes, objects, and inheritance
+- Functions and methods
+- Lists and dictionaries
+- Conditional statements and loops
+- Reading and writing JSON files
+- Error handling
+- Organising a larger Python program
+
+## Future Improvements
+
+- Add more enemy types
+- Introduce new weapons and equipment
+- Improve combat mechanics
+- Add more locations to exploree
